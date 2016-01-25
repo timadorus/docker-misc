@@ -1,4 +1,4 @@
-USE ubuntu:wily
+FROM ubuntu:wily
 
 RUN apt-get update
 
